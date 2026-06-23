@@ -23,7 +23,7 @@ I care less about any single stack and more about shipping something that remove
 **🧞 AdGenie — AI-powered advertising data platform**
 An internal platform that lets non-technical teams query advertising data directly, without writing SQL or wrangling exports. It began as a way to run queries on a single data source and grew into one unified, intuitive interface across multiple advertising data sources — with KPI logic and calculation methodology built into the tool so everyone works from consistent, reliable numbers. Now used daily by the team, saving each person roughly 20 hours a month.
 *Python · Node.js · LLM-assisted · SQL*
-→ [Read the full case study](#) <!-- replace with link to your case study -->
+→ [Read the full case study](https://github.com/angiecrc/adgenie-case-study) <!-- replace with link to your case study -->
 
 **📊 Client-facing multi-retailer analytics app**
 A client-facing application that brings scattered multi-retailer data into a single, intuitive product. I owned the full build — architecture, UX, backend, and frontend. It's in active client use, with a steady stream of feature requests driven by how easy it is to use.
