@@ -1,4 +1,4 @@
-## Hi, I'm Angie 👋
+## Hi, I'm Angie 👋 💖
 
 Data & AI Product Builder — I turn complex, manual data work into tools people actually want to use.
 
