@@ -1,4 +1,4 @@
-# Hi, I'm Angie 👋
+# Hi, I'm Angie 👋💖
 
 **Data & AI Product Builder** — I turn complex, manual data work into tools people actually want to use.
 
@@ -39,6 +39,8 @@ Currently leading the migration of 10+ legacy Tableau and Power BI reports into 
 
 - 🏆 Recognized two years running at company awards — *Innovation* (for building AdGenie) and *Data in Action* (for analytical depth)
 - 🎓 MSc in Business Analytics & Big Data, Politecnico di Milano
-- 🌋 Outside of work: history and archaeology nerd (especially Mesoamerican), traveler, and café-culture enthusiast
+- 💖 Outside of work: random facts nerd (currently obssessed with octopuses), baking enthusiast and lover of all things fashion (I'm a Milanese girlie after all!✨)
+
+
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/angelescruzcampos/)
