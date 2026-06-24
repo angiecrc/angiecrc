@@ -1,10 +1,10 @@
 # Hi, I'm Angie 👋💖
 
-**Data & AI Product Builder** — I turn complex, manual data work into tools people actually want to use.
+**Data & AI Product** — I turn complex, manual data work into (very cool) tools.
 
 I started in mechanical engineering, moved into data analytics, and found my real niche somewhere in between: building internal and client-facing applications that take something only a specialist could do and make it self-serve for everyone else. Most of what I build lives at the intersection of **data, AI, and the business problem in front of me**.
 
-🌍 Based between Mexico City and Milan · 🗣️ Spanish (native) · English (C1) · Italian (B1)
+🌍 Based between Milan and Mexico City · 🗣️ Spanish (native) · English (C1) · Italian (B1)
 
 ---
 
