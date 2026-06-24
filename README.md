@@ -12,7 +12,7 @@ I started in mechanical engineering, moved into data analytics, and found my rea
 
 `Python` · `Node.js` · `SQL` · `LLM / API integration` · `Power BI` · `Tableau` · data pipelines · dashboard & UX design
 
-I care less about any single stack and more about shipping something that removes a real bottleneck — then watching people use it without needing me.
+I care less about any single stack and more about shipping something that removes a real bottleneck.
 
 ---
 
