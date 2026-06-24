@@ -39,7 +39,7 @@ Currently leading the migration of 10+ legacy Tableau and Power BI reports into 
 
 - 🏆 Recognized two years running at company awards — *Innovation* (for building AdGenie) and *Data in Action* (for analytical depth)
 - 🎓 MSc in Business Analytics & Big Data, Politecnico di Milano
-- 💖 Outside of work: random facts nerd (currently obssessed with octopuses), baking enthusiast and lover of all things fashion (I'm a Milanese girlie after all!✨)
+- 💖 Outside of work: random facts nerd (currently obssessed with octopuses), baking enthusiast and lover of all things fashion (I'm now a Milanese girlie after all!✨)
 
 
 
